@@ -5,7 +5,7 @@
 ### Mardi 14/09/2021
 
 
-* [ ] Comprendre le métier de développeur, aperçu sur le mindset du dev
+* [X] Comprendre le métier de développeur, aperçu sur le mindset du dev
 * [ ] Savoir comment aborder la gestion de son temps
 * [ ] Savoir comment poser des questions
 * [ ] Savoir comment aborder un problème
