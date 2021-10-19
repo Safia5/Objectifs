@@ -4,7 +4,7 @@
 
 ### Javascript
 
-* [ ] Comprendre le fonctionnement des fonctions (https://javascript.info/function-basics)
+* [X] Comprendre le fonctionnement des fonctions (https://javascript.info/function-basics)
     * [ ] Faire les 4 exercices
 * [ ] Comprendre le fonctionnement des fonctions expression (https://fr.javascript.info/function-expressions)
 * [ ] Comprendre le fonctionnement des Fonctions fléchées (https://fr.javascript.info/arrow-functions-basics)
